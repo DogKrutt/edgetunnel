@@ -2,6 +2,7 @@
 import { connect } from 'cloudflare:sockets';
 
 let userID = '';
+let outer444 = "outer";
 let proxyIP = '';
 let DNS64Server = '';
 //let sub = '';
